@@ -9,7 +9,7 @@
       ]
     }
   ],
-  "version": "v3.3.0",
+  "version": "3.3.0",
   "filename": "custom/bootstrap.min.css",
   "description": "Bootswatch is a collection of themes for Bootstrap.",
   "homepage": "http://bootswatch.com",
